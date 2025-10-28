@@ -4,7 +4,6 @@
   "type": "module",
   "main": "index.js",
   "dependencies": {
-    "rss-parser": "^3.12.0",
-    "node-fetch": "^3.3.2"
+    "rss-parser": "^3.12.0"
   }
 }
