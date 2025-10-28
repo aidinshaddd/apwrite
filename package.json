@@ -1,11 +1,10 @@
 {
   "name": "rss-feed-poster",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
-  "type": "commonjs",
   "dependencies": {
     "rss-parser": "^3.12.0",
-    "node-fetch": "^2.6.7",
-    "node-appwrite": "^10.0.0"
+    "node-fetch": "^3.3.2"
   }
 }
