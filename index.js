@@ -1,5 +1,6 @@
 // index.js
-import fetch from "node-fetch";
+// ❌ not needed; Node 18+ has native fetch
+// import fetch from "node-fetch";
 import Parser from "rss-parser";
 
 const parser = new Parser();
